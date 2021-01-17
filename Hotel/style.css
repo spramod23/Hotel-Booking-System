@@ -1,0 +1,60 @@
+.full{
+	width: 100%;
+	height: auto;
+}
+#header{
+	width: 100%;
+	height: 100px;
+
+	box-shadow: black;
+
+}
+#logo{
+	width: 30%;
+	height: 100px;
+	float:left;
+}
+#nav{
+	width: 70%;
+	height: 100px;
+	float: left;
+}
+
+ul li{
+	list-style: none;
+	float: left;
+	width: 14%;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+}
+.main{
+	text-decoration: none;
+	color:black;
+	font-weight: bold;
+}
+a:hover{
+	text-decoration: none;
+	color: rgb(2, 1, 7);
+	font-size: 20px;
+}
+a:active{
+	text-decoration: none;
+	color:black;
+	border-bottom: 2px black;
+	
+}
+img{
+	width: 120px;
+}
+footer{
+	position: absolute;
+	bottom: 0px;
+	background: rgba(228,0, 0, 0.5);
+	
+}
+.slider{
+	width: 800px;
+	height: 400px;
+	background: url(4.jpg);
+}

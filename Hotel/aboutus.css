@@ -1,0 +1,7 @@
+.aboutus{
+    background-clip: border-box;
+    padding: 10px;
+    background:rgba(126, 124, 124, 0.4);
+    text-align: justify;
+    text-align-last: left;
+}
